@@ -1,0 +1,8 @@
+customer_id,first_name,last_name,email,zip,balance
+1001,John,Smith,john.smith@email.com,00701,120.50
+1002,Mary,Jones,mary.jones@email.com,76308,75.00
+1003,Bob,Lee,bob.lee@email.com,02108,50.25
+1004,Sarah,Wilson,sarah@email.com,90210,250.00
+1005,Mike,Brown,BAD_EMAIL,00501,100.00
+1006,Amy,Davis,amy@email.com,10001,NOT_MONEY
+1002,Mary,Jones,mary.jones@email.com,76308,75.00
